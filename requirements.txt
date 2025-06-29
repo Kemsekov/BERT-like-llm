@@ -1,0 +1,8 @@
+tokenizers
+torch
+torchmetrics
+tqdm
+matplotlib
+accelerate
+einops
+
