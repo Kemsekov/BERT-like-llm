@@ -4,7 +4,8 @@ The task is following:
 We need to train LLM to reconstruct masked parts of text.
 For this sake we first train tokenizer, then we define a dataset suitable for this problem, then we define a model and train it.
 
-Here is example for harry potter dataset after 400 epochs:
+Here is example for harry potter dataset after 400 epochs. 
+It achieved f1 recovery metric for skipped tokens:`f1 skip : 0.338` 
 
 orig:
 ```
